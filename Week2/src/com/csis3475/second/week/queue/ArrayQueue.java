@@ -1,3 +1,4 @@
+package com.csis3475.second.week.queue;
 /**
 A class that implements the ADT queue by using an expandable
 circular array with one unused location after the back of the queue.

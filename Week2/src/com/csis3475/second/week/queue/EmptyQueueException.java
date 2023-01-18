@@ -1,3 +1,4 @@
+package com.csis3475.second.week.queue;
 /**
 A class of runtime exceptions thrown by methods to
 indicate that a queue is empty.

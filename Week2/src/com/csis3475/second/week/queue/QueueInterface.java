@@ -1,3 +1,4 @@
+package com.csis3475.second.week.queue;
 /**
 An interface for the ADT queue.   
 @author Frank M. Carrano

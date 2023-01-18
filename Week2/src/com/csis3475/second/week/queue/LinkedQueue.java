@@ -1,3 +1,4 @@
+package com.csis3475.second.week.queue;
 /**
 A class that implements a queue of objects by using
 a chain of linked nodes that has both head and tail references.

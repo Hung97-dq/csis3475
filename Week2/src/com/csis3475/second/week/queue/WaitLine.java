@@ -1,4 +1,4 @@
-package com.csis3475.second.week.queue.waitline;
+package com.csis3475.second.week.queue;
 import com.csis3475.second.week.queue.*;
 
 /** Simulates a waiting line. 
